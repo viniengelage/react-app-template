@@ -1,6 +1,6 @@
 {
-  "name": "@material-ui/buttons",
-  "description": "A button built with styled component and typescript.",
+  "name": "template-react-app",
+  "description": "Um template react-app com typescript",
   "author": "Vinicios Engelage",
   "version": "0.1.0",
   "private": true,
